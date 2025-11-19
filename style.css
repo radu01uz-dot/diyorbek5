@@ -1,0 +1,38 @@
+header{
+    background-color: black;
+}
+.text{
+   margin: auto;
+    text-align: center;
+ margin-top: 100px;
+ font-size: 88px;
+ width: 743px;
+}
+.card{
+    width: 393px;
+    height: 396px;
+    text-align: center;
+}
+.box{
+display: flex;
+flex-wrap: wrap;
+gap: 140px;
+justify-content: center;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
